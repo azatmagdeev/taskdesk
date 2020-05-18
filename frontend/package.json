@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "my task desk app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
